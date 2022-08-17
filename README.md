@@ -4,10 +4,5 @@
 <br>
 
 
-- 🔭 Atualmente trabalho como Auxiliar de Suporte III na [Mobilemed](https://mobilemed.com.br/)
-- 🌱 I’m currently learning Javascript, React Native, React JS
-- 💬 Ask me about JavaScript, HTML, CSS
-- 📫 How to reach me eliel.souzha@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente trabalho como Auxiliar de Suporte III na [Mobilemed](https://mobilemed.com.br/)
+- Sou estudante de Gestão e Tecnologia da Informação
