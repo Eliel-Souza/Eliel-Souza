@@ -5,6 +5,7 @@
 - Atualmente trabalho como Auxiliar de Suporte III na [Mobilemed](https://mobilemed.com.br/)
 - Sou estudante de Gestão e Tecnologia da Informação
 
+<br>
 
 ### Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
