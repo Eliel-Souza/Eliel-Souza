@@ -12,6 +12,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
 ### Tecnologias que estou usando e estudando atualmente
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-4A4A55?style=for-the-badge&logo=gnu-bash&logoColor=white)
