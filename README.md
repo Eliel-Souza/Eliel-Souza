@@ -2,7 +2,7 @@
 
 <br>
 
-- Atualmente trabalho como Auxiliar de Suporte III na [Mobilemed](https://mobilemed.com.br/)
+- Atualmente trabalho como Assistente de Suporte III na [Mobilemed](https://mobilemed.com.br/)
 - Sou estudante de Gestão e Tecnologia da Informação
 
 <br>
