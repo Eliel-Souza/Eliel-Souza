@@ -2,7 +2,7 @@
 
 <br>
 
-- Atualmente trabalho como Assistente de Infraestrutura na [Mobilemed](https://mobilemed.com.br/)
+- Atualmente trabalho com Infraestrutura de TI na [Mobilemed](https://mobilemed.com.br/)
 - Sou estudante de Gestão e Tecnologia da Informação
 
 <br>
@@ -14,6 +14,7 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-4A4A55?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AMAZON](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
@@ -21,7 +22,6 @@
 ### Tecnologias que estou usando e estudando atualmente
 
 ![DOCKER](https://img.shields.io/badge/DOCKER-003F8C?style=for-the-badge&logo=docker&logoColor=white)
-![AMAZON](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
